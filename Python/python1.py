@@ -12,7 +12,7 @@ message = "Hello, " + full_name.title() + "!"
 print(message)
 print(3*100)
 #
-# Function - convert a number to a string
+# Function - convert a number to a string.
 age = 54
 age_message = "You are " + str(age) + " years old"
-print(age_message)
+print(message + " " + age_message)
