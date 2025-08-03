@@ -1,1 +1,2 @@
 # Javascript Readme
+added new line to test git extensions
