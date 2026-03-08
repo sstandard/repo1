@@ -1,0 +1,8 @@
+local dev stuff
+<<<<<<< HEAD
+add more stuff to cause conflict?
+and again..
+and again..
+=======
+remote changes only
+>>>>>>> b0c7e7024743322120d07a00f701dafa52d96860
