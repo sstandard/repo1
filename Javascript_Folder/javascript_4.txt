@@ -1,2 +1,3 @@
 javascript_4_local_change_same_row...
-js4 local new row
+js4 - remote changes 
+js4 - local new row
